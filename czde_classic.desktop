@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=CZDE Classic
+Comment=CZDE Classic is a classic version of CZDE
+Exec=/bin/czde_desktop.sh
+Type=Application
