@@ -1,0 +1,23 @@
+---------Basic---------
+CZDE 0.9 (1992) <- Used bash desktop
+CZDE 0.10 (1993)
+CZDE 0.11 (1994)
+CZDE 1.01 (1995) <- Maked to GNOME 1.0 desktop 
+CZDE 1.02 (1996)
+CZDE 1.03 (1997)
+CZDE 1.04 (1998) <- Maked the Menu
+---------Classic---------
+CZDE 1.06 (2000)
+CZDE 1.07 (2001)
+CZDE 1.08 (2002)
+CZDE 1.09 (2003)
+CZDE 1.10 (2004)
+CZDE 1.11 (2005)
+CZDE 3.0 (2006)
+CZDE 3.5 (2007)
+CZDE 4.0 (2008)
+CZDE 4.3 (2009)
+CZDE 4.5 (2010) <- CZDE Classic Latest Version
+---------Classic X---------
+CZDE 4.6 (2011)
+CZDE 4.7 (2012) <- CZDEX Classic Latest Version
